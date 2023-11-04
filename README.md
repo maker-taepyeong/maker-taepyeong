@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Taepyeong, I make websites.
+## Hi, I make websites for the people.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
